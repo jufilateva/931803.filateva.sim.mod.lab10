@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\10_Game\10_Game\obj\Debug\10_Game.csprojAssemblyReference.cache
+C:\Users\User\source\repos\10_Game\10_Game\obj\Debug\_10_Game.Form1.resources
+C:\Users\User\source\repos\10_Game\10_Game\obj\Debug\_10_Game.Properties.Resources.resources
+C:\Users\User\source\repos\10_Game\10_Game\obj\Debug\10_Game.csproj.GenerateResource.cache
+C:\Users\User\source\repos\10_Game\10_Game\obj\Debug\10_Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\10_Game\10_Game\bin\Debug\10_Game.exe.config
+C:\Users\User\source\repos\10_Game\10_Game\bin\Debug\10_Game.exe
+C:\Users\User\source\repos\10_Game\10_Game\bin\Debug\10_Game.pdb
+C:\Users\User\source\repos\10_Game\10_Game\obj\Debug\10_Game.exe
+C:\Users\User\source\repos\10_Game\10_Game\obj\Debug\10_Game.pdb
